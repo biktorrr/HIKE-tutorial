@@ -1,4 +1,4 @@
-# Tutorial Knowledge Engineering for Hybrid Intelligence (KE4HI)
+# Tutorial Knowledge Engineering for Hybrid Intelligence (KE4HI @ FOIS)
 
 
 The second Knowledge Engineering for Hybrid Intelligence (HIKE) tutorial will be held in conjunction with the 14TH INTERNATIONAL CONFERENCE ON FORMAL ONTOLOGY IN INFORMATION SYSTEMS (FOIS 2024)
