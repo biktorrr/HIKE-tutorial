@@ -1,4 +1,4 @@
-# Tutorial Knowledge Engineering for Hybrid Intelligence (KE4HI)
+# Tutorial Knowledge Engineering for Hybrid Intelligence (KE4HI @ HHAI)
 
 
 The first Knowledge Engineering for Hybrid Intelligence (HIKE) tutorial will be held 11 June 2024 as part of the HHAI 2024 conference in Malmö, Sweden
