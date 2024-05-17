@@ -1,35 +1,11 @@
 # Tutorial Knowledge Engineering for Hybrid Intelligence (KE4HI)
 
+This page collects information about the various Knowledge Engineering for Hybrid Intelligence (KE4HI) tutorials and workshops. There are currently two such events planned. You can find more information on the pages below:
 
-The first Knowledge Engineering for Hybrid Intelligence (HIKE) tutorial will be held 11 June 2024 as part of the HHAI 2024 conference in Malmö, Sweden
-(https://hhai-conference.org/2024/workshops-tutorials/)
-
-The tutorial will be from 14h-18h in Location NI:A0407
-
-## Description
-Hybrid Intelligence (HI) is a rapidly growing field aiming at creating collaborative systems where humans and intelligent machines synergetically cooperate in mixed teams
-towards shared goals. A clear characterization of the tasks and knowledge exchanged by
-the agents in HI applications is still missing, hampering both standardization and reuse
-when designing new HI systems.
-Knowledge Engineering (KE) methods have been used to solve such issue through
-the formalization of tasks and roles in knowledge-intensive processes, formerly often
-for Expert Systems. In this tutorial we will introduce how KE methods can be applied
-to HI scenarios, and specifically how common, reusable elements such as knowledge
-roles, tasks and subtasks can be identified in contexts where symbolic, subsymbolic and
-human-in-the-loop components are involved.
-In this tutorial we will first introduce the well-known CommonKADS methodology,
-and recent extensions to make it usable to hybrid scenarios. In a hands-on part, we will
-then use this methodology to analyze HI projects and identify common tasks.
-
-## Program
-
-The tentative program is found below
-
-| Part | Time        | Topic                                                                        | Content                                                                                                                                                                                                                                                       |   |
-|------|-------------|------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---|
-| 1    | 14:00-15.30 | Introduction to HI, Knowledge Engineering, CommonKADS. Introduction to HIKE  | <ol> <li>Introduction to Knowledge Engineering, CommonKADS</li> <li>Introduction to the HIKE framework and existing scenarios</li> <li>Handson: Choose a domain, task, agents, application, describe your own scenario and provide structured description using templates</li></ol> |   |
-| 2    | 15.30-16.30 | Structuring your Scenario using UML notation                                 |<ol> <li>Introduction to the basics of UML in KADS </li> <li>Handson: Fill the ontology table</li> <li>Design a UML workflow of the chosen HI scenario Result</li></ol>                                                                                                    |   |
-| 3    | 17:00-18:00 | Measuring your HIness. Introduction of HIness                                |<ol> <li>Introduction to HIness measures </li> <li>Handson: Measure the HIness of your own scenario and its tasks </li></ol>                                                                                                                           |   |
+- The {first tutorial co-located with the HHAI2024 conference} (atHHAI.md)
+- The {second tutorial co-located with the FOIS2024 conference} (atFOIS.md)
+-
+                                                                                                     |   |
 
 ## Resources
 - The tutorial is based on the following paper:  Tiddi I, De Boer V, Schlobach S, Meyer-Vitali A. Knowledge Engineering for Hybrid Intelligence. In:
