@@ -36,7 +36,8 @@ Proceedings of the 12th Knowledge Capture Conference 2023; 2023. p. 75-82
 - The [Paper's github repository](https://github.com/kmitd/HI-CommonKADS) contains a number of scenarios, and their formal descriptions as an example of the proposed steps (not including the measurements for HI-ness, though)
 
 ## Organizers
-
+| -------- | ------- |
 |<img src="img/ilaria.jpg" alt="drawing" width="200"/>|**Ilaria Tiddi** is an Assistant Professor in Hybrid Intelligence at the Knowledge in AI (KAI) group of the Vrije Universiteit Amsterdam (NL). Her research focuses on creating systems that generate complex narratives through a combination of semantic technologies, open data and machine learning, applied mostly in scientific and robotics scenarios.|
 |<img src="img/victor.jpg" alt="drawing" width="200"/>|**Victor de Boer** is an Assistant Professor at the User-Centric Data Science group at the Computer Science department of the Vrije Universiteit Amsterdam (VU) and a senior research fellow at Netherlands Institute for Sound and Vision. In his research, he combines Knowledge Representation and Machine Learning with Human-Computer Interaction to tackle research challenges in various domains.|
 |<img src="img/stefan.jpg" alt="drawing" width="200"/>|**Stefan Schlobach** is an Associate Professor at the Vrije Universiteit Amsterdam. He is leading the Knowledge in Artificial Intelligence group in the Department of Computer Science. Dr. Schlobach has published over 100 research papers in the area of Knowledge Engineering and Knowledge Representation and Reasoning. |
+| -------- | ------- |
