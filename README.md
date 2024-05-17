@@ -4,7 +4,7 @@ This page collects information about the various Knowledge Engineering for Hybri
 
 - The [first tutorial co-located with the **HHAI2024** conference](atHHAI.md)
 - The [second tutorial co-located with the **FOIS2024** conference](atFOIS.md)
-                                                                                                     |   |
+
 
 ## Resources
 - The tutorial is based on the following paper:  Tiddi I, De Boer V, Schlobach S, Meyer-Vitali A. Knowledge Engineering for Hybrid Intelligence. In:
