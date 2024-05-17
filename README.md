@@ -2,8 +2,8 @@
 
 This page collects information about the various Knowledge Engineering for Hybrid Intelligence (KE4HI) tutorials and workshops. There are currently two such events planned. You can find more information on the pages below:
 
-- The {first tutorial co-located with the HHAI2024 conference} (atHHAI.md)
-- The {second tutorial co-located with the FOIS2024 conference} (atFOIS.md)
+- The [first tutorial co-located with the HHAI2024 conference] (atHHAI.md)
+- The [second tutorial co-located with the FOIS2024 conference] (atFOIS.md)
                                                                                                      |   |
 
 ## Resources
