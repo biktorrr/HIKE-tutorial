@@ -37,7 +37,7 @@ The tentative program is found below
 
 
 ## Resources
-- The tutorial slides can be found here (https://tinyurl.com/hikehhaislides).
+- The tutorial slides can be found at <https://tinyurl.com/hikehhaislides>.
 - Slides explaining the [robot surgeon case](/materials/2024-06-HIKEtutorial.pdf)
 - The tutorial is based on the following paper:  Tiddi I, De Boer V, Schlobach S, Meyer-Vitali A. Knowledge Engineering for Hybrid Intelligence. In:
 Proceedings of the 12th Knowledge Capture Conference 2023; 2023. p. 75-82
