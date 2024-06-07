@@ -1,4 +1,4 @@
-# Tutorial Knowledge Engineering for Hybrid Intelligence (KE4HI)
+# Tutorial Knowledge Engineering for Hybrid Intelligence (KE4HI @ HHAI)
 
 
 The first Knowledge Engineering for Hybrid Intelligence (HIKE) tutorial will be held 11 June 2024 as part of the HHAI 2024 conference in Malmö, Sweden
@@ -27,9 +27,9 @@ The tentative program is found below
 
 | Part | Time        | Topic                                                                        | Content                                                                                                                                                                                                                                                       |   |
 |------|-------------|------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---|
-| 1    | 14:00-15.30 | Introduction to HI, Knowledge Engineering, CommonKADS. Introduction to HIKE  | <ol> <li>Introduction to Knowledge Engineering, CommonKADS</li> <li>Introduction to the HIKE framework and existing scenarios</li> <li>Handson: Choose a domain, task, agents, application, describe your own scenario and provide structured description using templates</li></ol> |   |
-| 2    | 15.30-16.30 | Structuring your Scenario using UML notation                                 |<ol> <li>Introduction to the basics of UML in KADS </li> <li>Handson: Fill the ontology table</li> <li>Design a UML workflow of the chosen HI scenario Result</li></ol>                                                                                                    |   |
-| 3    | 17:00-18:00 | Measuring your HIness. Introduction of HIness                                |<ol> <li>Introduction to HIness measures </li> <li>Handson: Measure the HIness of your own scenario and its tasks </li></ol>                                                                                                                           |   |
+| 1    | 14:00-15.30 | Introduction to HI, Knowledge Engineering, CommonKADS. Introduction to HIKE  | 1) Introduction to Knowledge Engineering, CommonKADS 2) Introduction to the HIKE framework and existing scenarios 3) Handson: Choose a domain, task, agents, application, describe your own scenario and provide structured description using templates|   |
+| 2    | 15.30-16.30 | Structuring your Scenario using UML notation                                 | 1) Introduction to the basics of UML in KADS 2) Handson: Fill the ontology table 3) Design a UML workflow of the chosen HI scenario Result                                                                        |   |
+| 3    | 17:00-18:00 | Measuring your HIness. Introduction of HIness                                | 1) Introduction to HIness measures 2) Handson: Measure the HIness of your own scenario and its tasks                                                                                                |   |
 
 ## Resources
 - The [tutorial slides can be found here](https://docs.google.com/presentation/d/1iFlT5ZVQg0ZU3ipxM4BMfgzMFH6tvCVtXVQrY20JBKk/).
@@ -40,6 +40,8 @@ Proceedings of the 12th Knowledge Capture Conference 2023; 2023. p. 75-82
 
 ## Organizers
 
-- **Ilaria Tiddi** is an Assistant Professor in Hybrid Intelligence at the Knowledge in AI (KAI) group of the Vrije Universiteit Amsterdam (NL). Her research focuses on creating systems that generate complex narratives through a combination of semantic technologies, open data and machine learning, applied mostly in scientific and robotics scenarios.
-- **Victor de Boer** is an Assistant Professor at the User-Centric Data Science group at the Computer Science department of the Vrije Universiteit Amsterdam (VU) and a senior research fellow at Netherlands Institute for Sound and Vision. In his research, he combines Knowledge Representation and Machine Learning with Human-Computer Interaction to tackle research challenges in various domains.
-- **Stefan Schlobach** is an Associate Professor at the Vrije Universiteit Amsterdam. He is leading the Knowledge in Artificial Intelligence group in the Department of Computer Science. Dr. Schlobach has published over 100 research papers in the area of Knowledge Engineering and Knowledge Representation and Reasoning. 
+<img src="img/ilaria.jpg" alt="ilaria" width="200"/> **Ilaria Tiddi** is an Assistant Professor in Hybrid Intelligence at the Knowledge in AI (KAI) group of the Vrije Universiteit Amsterdam (NL). Her research focuses on creating systems that generate complex narratives through a combination of semantic technologies, open data and machine learning, applied mostly in scientific and robotics scenarios.
+
+<img src="img/victor.jpg" alt="victor" width="200"/> **Victor de Boer** is an Assistant Professor at the User-Centric Data Science group at the Computer Science department of the Vrije Universiteit Amsterdam (VU) and a senior research fellow at Netherlands Institute for Sound and Vision. In his research, he combines Knowledge Representation and Machine Learning with Human-Computer Interaction to tackle research challenges in various domains.
+
+<img src="img/stefan.jpg" alt="stefan" width="200"/> **Stefan Schlobach** is an Associate Professor at the Vrije Universiteit Amsterdam. He is leading the Knowledge in Artificial Intelligence group in the Department of Computer Science. Dr. Schlobach has published over 100 research papers in the area of Knowledge Engineering and Knowledge Representation and Reasoning. 
