@@ -32,6 +32,8 @@ The tentative program is found below
 | 3    | 17:00-18:00 | Measuring your HIness. Introduction of HIness                                |<ol> <li>Introduction to HIness measures </li> <li>Handson: Measure the HIness of your own scenario and its tasks </li></ol>                                                                                                                           |   |
 
 ## Resources
+- The [tutorial slides can be found here](https://docs.google.com/presentation/d/1iFlT5ZVQg0ZU3ipxM4BMfgzMFH6tvCVtXVQrY20JBKk/).
+- Slides explaining the [robot surgeon case](/materials/2024-06-HIKEtutorial.pdf)
 - The tutorial is based on the following paper:  Tiddi I, De Boer V, Schlobach S, Meyer-Vitali A. Knowledge Engineering for Hybrid Intelligence. In:
 Proceedings of the 12th Knowledge Capture Conference 2023; 2023. p. 75-82
 - The [Paper's github repository](https://github.com/kmitd/HI-CommonKADS) contains a number of scenarios, and their formal descriptions as an example of the proposed steps (not including the measurements for HI-ness, though)
