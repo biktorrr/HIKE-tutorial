@@ -24,11 +24,17 @@ then use this methodology to analyze HI projects and identify common tasks.
 
 The tentative program is found below
 
-| Part | Time        | Topic                                                                        | Content                                                                                                                                                                                                                                                       |   |
-|------|-------------|------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---|
-| 1    | 14:00-15.30 | Introduction to HI, Knowledge Engineering, CommonKADS. Introduction to HIKE  | 1) Introduction to Knowledge Engineering, CommonKADS<br> 2) Introduction to the HIKE framework and existing scenarios 3) Handson: Choose a domain, task, agents, application, describe your own scenario and provide structured description using templates|   |
-| 2    | 15.30-16.30 | Structuring your Scenario using UML notation                                 | 1) Introduction to the basics of UML in KADS 2) Handson: Fill the ontology table 3) Design a UML workflow of the chosen HI scenario Result                                                                        |   |
-| 3    | 17:00-18:00 | Measuring your HIness. Introduction of HIness                                | 1) Introduction to HIness measures 2) Handson: Measure the HIness of your own scenario and its tasks                                                                                                |   |
+- Part 1 : Introduction  (14:00-15:00)
+	- Introduction to Knowledge Engineering, CommonKADS 
+	- Introduction to the HIKE framework	 
+- Part 2 :  Structuring you HI scenario (15:00-16:30)
+	- Introduction to UML notations
+	- (Hands-on 1.1) Fill the ontology table 
+	- (Hands-on 1.2) Design a UML workflow of the your HI scenario
+- Part 3 : Measuring the HIness of your scenario (16:30-18:00)
+	- Introduction to the HIness measures 
+	- (Hands-on) Measuring the HIness of your own scenario
+
 
 ## Resources
 - The tutorial slides can be found here **(https://tinyurl.com/hikehhaislides)**.
