@@ -29,7 +29,9 @@ The tentative program is found below
 	- Introduction to the HIKE framework	 
 - Part 2 :  Structuring you HI scenario (15:00-16:30)
 	- Introduction to UML notations
-	- (Hands-on 1.1) Fill the ontology table 
+	- (Hands-on 1.1) Fill the ontology table
+ 		- ontology image: [png](/materials/HIOntology_v2.png), [pdf](/materials/HIOntology_v2.pdf)
+   		- template: [ods](/materials/OntologyTable.ods), [pdf](/materials/OntologyTable.pdf)
 	- (Hands-on 1.2) Design a UML workflow of the your HI scenario
 - Part 3 : Measuring the HIness of your scenario (16:30-18:00)
 	- Introduction to the HIness measures 
@@ -39,6 +41,7 @@ The tentative program is found below
 ## Resources
 - The tutorial slides can be found at <https://tinyurl.com/hikehhaislides>.
 - Slides explaining the [robot surgeon case](/materials/2024-06-HIKEtutorial.pdf)
+- Materials for this tutorial is found in the [/materials/ folder on github](/materials/)
 - The tutorial is based on the following paper:  Tiddi I, De Boer V, Schlobach S, Meyer-Vitali A. [Knowledge Engineering for Hybrid Intelligence](https://dl.acm.org/doi/10.1145/3587259.3627541). In:
 Proceedings of the 12th Knowledge Capture Conference 2023; 2023. p. 75-82
 - The [Paper's github repository](https://github.com/kmitd/HI-CommonKADS) contains a number of scenarios, and their formal descriptions as an example of the proposed steps (not including the measurements for HI-ness, though)
