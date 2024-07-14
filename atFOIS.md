@@ -22,18 +22,29 @@ then use this methodology to analyze HI projects and identify common tasks.
 
 ## Program
 
-The tentative program is found below
+The program is found below
 
-| Part | Time        | Topic                                                                        | Content                                                                                                                                                                                                                                                       |   |
-|------|-------------|------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---|
-| 1    || Introduction to HI, Knowledge Engineering, CommonKADS. Introduction to HIKE  |1) Introduction to Knowledge Engineering, CommonKADS 2) Introduction to the HIKE framework and existing scenarios 3) Handson: Choose a domain, task, agents, application, describe your own scenario and provide structured description using templates |   |
-| 2    |  | Structuring your Scenario using UML notation                                 |1) Introduction to the basics of UML in KADS 2) Handson: Fill the ontology table 3) Design a UML workflow of the chosen HI scenario Result                                                                                                    |   |
-| 3    |  | Measuring your HIness. Introduction of HIness                                |1) Introduction to HIness measures 2) Handson: Measure the HIness of your own scenario and its tasks                                                                                                                            |   |
+- Part 1 : Introduction  (09:00-09:20)
+	- Introduction to Knowledge Engineering, CommonKADS 
+	- Introduction to the HIKE framework	 
+- Part 2 :  Structuring you HI scenario (09:20-09:50)
+	- Introduction to UML notations
+	- (Hands-on 1.1) Fill the ontology table
+ 		- ontology image: [png](/materials/HIOntology_v2.png), [pdf](/materials/HIOntology_v2.pdf)
+   		- template: [ods](/materials/OntologyTable.ods), [pdf](/materials/OntologyTable.pdf)
+	- (Hands-on 1.2) Design a UML workflow of the your HI scenario
+- Part 3 : Measuring the HIness of your scenario (09:50-10:30)
+	- Measuring HIness 
+	- (Hands-on) Measuring the HIness of your own scenario
 
 ## Resources
-- The tutorial is based on the following paper:  Tiddi I, De Boer V, Schlobach S, Meyer-Vitali A. Knowledge Engineering for Hybrid Intelligence. In:
+- The tutorial slides can be found at <https://tinyurl.com/hikehhaislides>.
+- Slides explaining the [robot surgeon case](https://github.com/biktorrr/HIKE-tutorial/blob/main/materials/slides_robot_surgeon.pdf)
+- Materials for this tutorial is found in the [/materials/ folder on github](https://github.com/biktorrr/HIKE-tutorial/blob/main/materials)
+- The tutorial is based on the following paper:  Tiddi I, De Boer V, Schlobach S, Meyer-Vitali A. [Knowledge Engineering for Hybrid Intelligence](https://dl.acm.org/doi/10.1145/3587259.3627541). In:
 Proceedings of the 12th Knowledge Capture Conference 2023; 2023. p. 75-82
 - The [Paper's github repository](https://github.com/kmitd/HI-CommonKADS) contains a number of scenarios, and their formal descriptions as an example of the proposed steps (not including the measurements for HI-ness, though)
+- The [CommonKADS website](https://commonkads.org/) provides slides for the various models
 
 ## Organizers
 
