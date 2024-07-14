@@ -7,9 +7,13 @@ This page collects information about the various Knowledge Engineering for Hybri
 
 
 ## Resources
+- The tutorial slides can be found at [https://tinyurl.com/hikehhaislides](https://tinyurl.com/hikehhaislides).
+- Slides explaining the robot surgeon case
+- Materials for this tutorial is found in the /materials/ folder
 - The tutorial is based on the following paper:  Tiddi I, De Boer V, Schlobach S, Meyer-Vitali A. Knowledge Engineering for Hybrid Intelligence. In:
 Proceedings of the 12th Knowledge Capture Conference 2023; 2023. p. 75-82
 - The [Paper's github repository](https://github.com/kmitd/HI-CommonKADS) contains a number of scenarios, and their formal descriptions as an example of the proposed steps (not including the measurements for HI-ness, though)
+- The CommonKADS website provides slides for the various models
 
 ## Organizers
 
